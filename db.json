@@ -13,42 +13,42 @@
           {
             "id": 1,
             "name": "Reino Unido",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197374.svg?token=exp=1617570536~hmac=b58a488269cd97dafcfb394893bb5feb",
+            "flag": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
             "capital": "Londres",
             "image": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=751&q=80"
           },
           {
             "id": 2,
             "name": "França",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197560.svg?token=exp=1617570868~hmac=cda5987318239ed584162b9ba936bdb6",
+            "flag": "https://cdn-icons-png.flaticon.com/128/197/197560.png",
             "capital": "Paris",
             "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=707&q=80"
           },
           {
             "id": 3,
             "name": "Itália",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197626.svg?token=exp=1617570899~hmac=4fe7d5d4a4a40e6bee3c379987b1ebba",
+            "flag": "https://cdn-icons-png.flaticon.com/512/197/197626.png",
             "capital": "Roma",
             "image": "https://images.unsplash.com/photo-1597177724434-245eb4d730e7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
           },
           {
             "id": 4,
             "name": "República Tcheca",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197576.svg?token=exp=1617570956~hmac=aa8c2903c5d99b5b5dfbe7273015922e",
+            "flag": "https://cdn.imgbin.com/11/6/1/imgbin-computer-icons-flag-of-the-czech-republic-hotel-praga-1-flags-of-the-world-flag-WtfSKr5jXcayt9TR9s9GmAFRu.jpg",
             "capital": "Praga",
             "image": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
           },
           {
             "id": 5,
             "name": "Holanda",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/323/323275.svg?token=exp=1617571078~hmac=0183208ca3bd8f4615bb9878e439c2a7",
+            "flag": "https://cdn-icons-png.flaticon.com/128/323/323275.png",
             "capital": "Amsterdã",
             "image": "https://images.unsplash.com/photo-1594759876531-d12b5e9e2453?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80"
           },
           {
-            "id": 5,
+            "id": 6,
             "name": "Portugal",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/3909/3909361.svg?token=exp=1617571144~hmac=8b5404e42043948bfd043e8f18c19bb9",
+            "flag": "https://cdn-icons-png.flaticon.com/128/197/197463.png",
             "capital": "Lisboa",
             "image": "https://images.unsplash.com/photo-1580323956656-26bbb1206e34?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=865&q=80"
           }
@@ -67,14 +67,14 @@
           {
             "id": 1,
             "name": "África do Sul",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197562.svg?token=exp=1617570566~hmac=4f2ef416f1bdcb7a518a066e3f1e1823",
+            "flag": "https://cdn-icons-png.flaticon.com/512/197/197562.png",
             "capital": "Joanesburgo",
             "image": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80"
           },
           {
-            "id": 1,
+            "id": 2,
             "name": "Angola",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197513.svg?token=exp=1617570687~hmac=b0d8ef0d1147471c9e4e57577cafb7d0",
+            "flag": "https://cdn-icons-png.flaticon.com/512/197/197513.png",
             "capital": "Luanda",
             "image": "https://images.unsplash.com/photo-1489493887464-892be6d1daae?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=748&q=80"
           }
@@ -93,14 +93,14 @@
           {
             "id": 1,
             "name": "China",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197375.svg?token=exp=1617571828~hmac=511d7f2a91c8b3d1b031e0db7cde9aeb",
+            "flag": "https://cdn-icons-png.flaticon.com/512/197/197375.png",
             "capital": "Xangai",
             "image": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
           },
           {
             "id": 2,
             "name": "Japão",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197604.svg?token=exp=1617571797~hmac=694ab94d92680500b2dfe443be5034c7",
+            "flag": "https://cdn-icons-png.flaticon.com/512/197/197604.png",
             "capital": "Tóquio",
             "image": "https://images.unsplash.com/photo-1551641506-ee5bf4cb45f1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=762&q=80"
           }
@@ -119,14 +119,14 @@
           {
             "id": 1,
             "name": "EUA",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197484.svg?token=exp=1617572885~hmac=d4baa61df786d96af6e098f087ffb554",
+            "flag": "https://cdn-icons-png.flaticon.com/512/197/197484.png",
             "capital": "Washington, D.C",
             "image": "https://images.unsplash.com/photo-1501466044931-62695aada8e9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=678&q=80"
           },
           {
             "id": 2,
             "name": "Canadá",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197430.svg?token=exp=1617572971~hmac=80be3adb4949fd6e4acdfaa8db4fd558",
+            "flag": "https://cdn-icons-png.flaticon.com/512/197/197430.png",
             "capital": "Ottawa",
             "image": "https://images.unsplash.com/photo-1569681157442-5eabf7fe850e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=752&q=80"
           }
@@ -145,14 +145,14 @@
           {
             "id": 1,
             "name": "Austrália",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/323/323367.svg?token=exp=1617573283~hmac=fd99fe78b7c66eb8a4041731170e79ba",
+            "flag": "https://cdn-icons-png.flaticon.com/512/323/323367.png",
             "capital": "Sidney",
             "image": "https://images.unsplash.com/photo-1524820197278-540916411e20?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=772&q=80"
           },
           {
             "id": 2,
             "name": "Nova Zelândia",
-            "flag": "https://www.flaticon.com/svg/vstatic/svg/197/197589.svg?token=exp=1617573368~hmac=a714036d441e41b35667c4e768d7e650",
+            "flag": "https://cdn-icons.flaticon.com/png/512/5372/premium/5372868.png?token=exp=1654886961~hmac=56728a6a098657e2151470e17d25e78f",
             "capital": "Wellington",
             "image": "https://images.unsplash.com/photo-1574751743509-d3b94e447a1e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=669&q=80"
           }

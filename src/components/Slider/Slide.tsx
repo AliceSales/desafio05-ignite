@@ -10,8 +10,8 @@ interface SlideProps {
 
 export function Slide({ id, title, description, imgUrl }: SlideProps) {
   return (
-    <Link href={`continent/${title}`}>
-      <Box bgImg={imgUrl} bgRepeat="no-repeat" bgSize="cover" bgPos="center">
+    <Link href={`continent/${id}`}>
+      <Box bgImg={imgUrl} bgRepeat="no-repeat" bgSize="cover" bgPos="center" cursor="pointer">
         <Flex
           h={450}
           direction="column"

@@ -23,6 +23,7 @@ export default function BannerContinent({ name, jumbotronImage } : BannerContine
             <Heading
                 fontSize="3xl"
                 fontWeight="600"
+                color="light.headingAndText"
             > {name}</Heading>
         </Flex>
     )

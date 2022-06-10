@@ -1,4 +1,5 @@
-import { Flex, Image, Text } from "@chakra-ui/react";
+import { Flex, Icon, Image, Text, useBreakpointValue } from "@chakra-ui/react";
+import { RiCheckboxBlankCircleFill } from "react-icons/ri";
 
 interface ItemProps {
     image: string;
@@ -7,13 +8,18 @@ interface ItemProps {
 }
 
 export function Item( {image, nameImage, textIcon} : ItemProps) {
+    const isWideVersion = useBreakpointValue({
+        base: false,
+        lg: true
+    });
+
     return(
         <Flex
             flexDirection='column'
             align='center'
             justify='center'
         >
-            <Image src={image} alt={nameImage} pb='5'/>
+            {isWideVersion ? <Image src={image} alt={nameImage} pb='5'/> : <Icon as={RiCheckboxBlankCircleFill} color="highlight"/>}
             <Text color='dark.headingAndText' fontWeight='500'>{textIcon}</Text>
         </Flex>
     )

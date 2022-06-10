@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { Flex, Icon, Image } from '@chakra-ui/react';
 import { RiArrowDropLeftLine } from 'react-icons/ri';
 import { useRouter } from 'next/router';
+import Logo from './Logo';
 
 export default function Header() {
 
@@ -16,6 +17,7 @@ export default function Header() {
         alignItems="center"
         justifyContent="center"
         px="6"
+        py='3'
 
         h={["50px", "100px"]}>
 
@@ -31,7 +33,7 @@ export default function Header() {
             cursor="pointer"
           />
         }
-        <Image src="./logo.png" />
+        <Logo/>
       </Flex>
     </Link >
   )

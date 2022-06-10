@@ -1,6 +1,11 @@
-import {Box, Flex, Heading, Image, Text } from '@chakra-ui/react'
+import {Box, Flex, Heading, Image, Text, useBreakpointValue } from '@chakra-ui/react'
 
 export function Banner() {
+    const isWideVersion = useBreakpointValue({
+        base: false,
+        lg: true
+    });
+
     return(
         <Box
             w='100%'
@@ -25,10 +30,7 @@ export function Banner() {
                 justifyContent='flex-end'
                 position='relative'
             >
-                <Image src="./airplane.png" alt="Airplane" 
-                    position='absolute'
-                    top={1}
-                />
+                {isWideVersion && <Image src="./airplane.png" alt="Airplane" position='absolute' top={1}/>}
             </Flex>
         </Box>
     );
