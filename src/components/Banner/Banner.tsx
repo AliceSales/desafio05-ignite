@@ -15,7 +15,7 @@ export function Banner() {
             bgImage="url('./background.png')"
             bgPosition="center"
             bgRepeat="no-repeat"
-            bgSize="cover";
+            bgSize="cover"
             px={20}
             >
             <Flex
